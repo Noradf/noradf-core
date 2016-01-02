@@ -1,0 +1,24 @@
+{
+  "name": "noradf-core",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "connect-flash": "^0.1.1",
+    "consolidate": "^0.13.1",
+    "dependable": "^0.2.5",
+    "errorhandler": "^1.4.2",
+    "express": "^4.13.3",
+    "express-jwt": "^3.3.0",
+    "express-session": "^1.12.1",
+    "express-validator": "^2.18.0",
+    "lazy-dependable": "^0.2.0",
+    "lodash": "^3.10.1",
+    "method-override": "^2.3.5",
+    "morgan": "^1.6.1",
+    "npm": "^3.5.2",
+    "passport": "^0.3.2",
+    "swig": "^1.4.2",
+    "wlist": "^1.2.0"
+  }
+}
