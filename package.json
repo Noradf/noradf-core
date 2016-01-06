@@ -1,6 +1,6 @@
 {
   "name": "noradf-core",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.14.1",
@@ -12,7 +12,6 @@
     "express-jwt": "^3.3.0",
     "express-session": "^1.12.1",
     "express-validator": "^2.18.0",
-    "lazy-dependable": "^0.2.0",
     "lodash": "^3.10.1",
     "method-override": "^2.3.5",
     "morgan": "^1.6.1",
@@ -20,5 +19,21 @@
     "passport": "^0.3.2",
     "swig": "^1.4.2",
     "wlist": "^1.2.0"
-  }
+  },
+  "keywords": [
+    "Node Rapid Application Development Framework",
+    "Rapid Application Development Framework",
+    "Node RAD",
+    "Node framework"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Noradf/noradf-core.git"
+  },
+  "author": {
+    "name": "Ruben J Garcia",
+    "email": "rubenjgarciab@gmail.com",
+    "url": "https://github.com/rubenjgarcia"
+  },
+  "license": "MIT"
 }
